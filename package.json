@@ -1,0 +1,22 @@
+{
+  "name": "@iapetos163/lp-solver",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "dist/index.js",
+  "keywords": [],
+  "author": "iapetos163",
+  "license": "MPL-2.0",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint src/**/*.ts"
+  },
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "eslint-config-birbcore": "github:iapetos163/eslint-config-birbcore#v2.4.0",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "glpk.js": "^4.0.1"
+  }
+}

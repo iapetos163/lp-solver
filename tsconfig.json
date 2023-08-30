@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "lib": ["es2017"],
+    "target": "es2017",
+    "outDir": "dist",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "module": "nodenext",
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true
+  },
+  "files": ["src/index.ts"]
+}

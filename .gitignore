@@ -1,0 +1,6 @@
+/dist
+/node_modules
+junit.xml
+.DS_Store
+Thumbs.db
+desktop.ini
